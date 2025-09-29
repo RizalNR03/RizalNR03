@@ -1,7 +1,7 @@
 ## Hello Everyone!
 
 Hello, my name is Rizal Naufal Robbani.<br>
-I am currently a fresh graduate in computer science from the Bandung Institute of Technology..<br>
+I am currently a fresh graduate in computer science from the Bandung Institute of Technology.<br>
 I successfully completed the Bangkit Academy program (Batch 6) in 2023 in machine learning cohort.<br><br>
 
 I’m always open to networking and collaboration.<br>
@@ -16,7 +16,7 @@ Thank you for visiting my profile!
 </a>
 </p>
 <!--
-**rivandasyah/rivandasyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RizalNR03/RizalNR03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
